@@ -24,7 +24,7 @@
 <a href="https://twitter.com/vajaganid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vajaganid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vajaganidhanesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vajaganidhanesh" height="30" width="40" /></a>
 <a href="https://kaggle.com/vajaganidhanesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vajaganidhanesh" height="30" width="40" /></a>
-<a href="https://fb.com/vajagani dhanesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vajagani dhanesh" height="30" width="40" /></a>
+<a href="https://fb.com/vajaganid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vajagani dhanesh" height="30" width="40" /></a>
 <a href="https://instagram.com/vajaganidhanesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vajaganidhanesh" height="30" width="40" /></a>
 </p>
 
