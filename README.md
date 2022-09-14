@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/vajaganid" target="blank"><img src="https://img.shields.io/twitter/follow/vajaganid?logo=twitter&style=for-the-badge" alt="vajaganid" /></a> </p>
 
-- 🔭 I’m currently working on **sportify**
+- 🔭 I’m currently working on **capstone**
 
 - 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **instagram**
 
-- 💬 Ask me about **web development MEARN STACK**
+- 💬 Ask me about **web development MERN STACK**
 
 - 📫 How to reach me **vajaganidhanesh@gmail.com**
 
