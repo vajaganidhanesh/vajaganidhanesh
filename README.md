@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm vajagani dhanesh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<img align="right" src="https://miro.medium.com/max/1400/1*9m-WDdL_ji01bGbjEnutEw.gif" width="400" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vajaganidhanesh&label=Profile%20views&color=0e75b6&style=flat" alt="vajaganidhanesh" /> </p>
 
