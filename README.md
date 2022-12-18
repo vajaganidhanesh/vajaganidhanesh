@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **capstone**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Vue JS**
 
 - 👯 I’m looking to collaborate on **instagram**
 
