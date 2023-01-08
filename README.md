@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/vajaganid" target="blank"><img src="https://img.shields.io/twitter/follow/vajaganid?logo=twitter&style=for-the-badge" alt="vajaganid" /></a> </p>
 
-- 🔭 I’m currently working on **capstone**
+- 🔭 I’m currently working on **House Marketing website**
 
 - 🌱 I’m currently learning **Vue JS**
 
