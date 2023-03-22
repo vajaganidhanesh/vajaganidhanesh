@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **ANGULAR**
 
-- 👯 I’m looking to collaborate on **instagram**
+- 👯 I’m looking to collaborate on **twitter**
 
 - 💬 Ask me about **web development MERN STACK**
 
