@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **House Marketing website**
 
-- 🌱 I’m currently learning **ANGULAR JS**
+- 🌱 I’m currently learning **ANGULAR**
 
 - 👯 I’m looking to collaborate on **instagram**
 
