@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm vajagani dhanesh</h1>
+<h1 align="center">Hi 👋, I'm Dhanesh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 
